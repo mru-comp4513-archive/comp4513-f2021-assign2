@@ -1,0 +1,1433 @@
+{
+   "title":"The Life of Henry the Fifth",
+   "short":"Henry V",
+   "persona":[
+
+      { "position": 1, "player": "KING HENRY", "desc": "the Fifth" },
+
+
+      { "position": 2, "player": "DUKE OF GLOUCESTER", "desc": "brother to the King" },
+      { "position": 2, "player": "DUKE OF BEDFORD", "desc": "brother to the King" },
+      
+
+      
+      { "position": 1, "player": "DUKE OF EXETER", "desc": "uncle to the King" },
+      { "position": 1, "player": "DUKE OF YORK", "desc": "cousin to the King" },
+      { "position": 1, "player": "EARL OF SALISBURY", "desc": "" },
+      { "position": 1, "player": "EARL OF WESTMORELAND", "desc": "" },
+      { "position": 1, "player": "EARL OF WARWICK", "desc": "" },
+      { "position": 3, "player": "BISHOP OF CANTERBURY", "desc": "" },
+      { "position": 3, "player": "BISHOP OF ELY", "desc": "" },
+      { "position": 3, "player": "EARL OF CAMBRIDGE", "desc": "" },
+      { "position": 2, "player": "LORD SCROOP", "desc": "" },
+      { "position": 2, "player": "SIR THOMAS GREY", "desc": "" },
+      
+
+      { "position": 1, "player": "SIR THOMAS ERPINGHAM", "desc": "" },
+
+ 
+      
+      { "position": 1, "player": "PISTOL", "desc": "" },
+      { "position": 1, "player": "NYM", "desc": "" },
+      { "position": 1, "player": "BARDOLPH", "desc": "" },
+      { "position": 3, "player": "Boy", "desc": "" },
+      { "position": 3, "player": "A Herald.", "desc": "" },
+      { "position": 2, "player": "CHARLES", "desc": "the Sixth, King of France" },
+      { "position": 2, "player": "LEWIS", "desc": "the Dauphin" },
+      { "position": 2, "player": "DUKE OF BURGUNDY", "desc": "" },
+      { "position": 2, "player": "DUKE OF ORLEANS", "desc": "" },
+      { "position": 2, "player": "DUKE OF BOURBON", "desc": "" },
+      { "position": 2, "player": "CONSTABLE", "desc": "The Constable of France" },
+      
+
+      
+      { "position": 3, "player": "GOVERNOR", "desc": "of Harfleur" },
+      { "position": 2, "player": "MONTJOY", "desc": "a French Herald" },
+      { "position": 2, "player": "ISABEL", "desc": "Queen of France" },
+      { "position": 2, "player": "KATHARINE", "desc": "daughter to Charles and Isabel" },
+      { "position": 3, "player": "ALICE", "desc": "a lady attending on her" }
+      
+      
+
+   ],
+   "acts":[
+      {
+         "name":"ACT I",
+         "scenes":[
+            {
+               "name":"SCENE I",
+               "title":"London. An ante-chamber in the KING'S palace",
+               "stageDirection":"Enter the ARCHBISHOP OF CANTERBURY, and the BISHOP OF ELY",
+               "speeches":[
+
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "My lord, I'll tell you; that self bill is urged,",
+                  "Which in the eleventh year of the last king's reign",
+                  "Was like, and had indeed against us pass'd,",
+                  "But that the scambling and unquiet time",
+                  "Did push it out of farther question."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "But how, my lord, shall we resist it now?"
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "It must be thought on. If it pass against us,",
+                  "We lose the better half of our possession:",
+                  "For all the temporal lands which men devout",
+                  "By testament have given to the church",
+                  "Would they strip from us; being valued thus:",
+                  "As much as would maintain, to the king's honour,",
+                  "Full fifteen earls and fifteen hundred knights,",
+                  "Six thousand and two hundred good esquires;",
+                  "And, to relief of lazars and weak age,",
+                  "Of indigent faint souls past corporal toil.",
+                  "A hundred almshouses right well supplied;",
+                  "And to the coffers of the king beside,",
+                  "A thousand pounds by the year: thus runs the bill."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "This would drink deep."
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "'Twould drink the cup and all."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "But what prevention?"
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "The king is full of grace and fair regard."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "And a true lover of the holy church."
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "The courses of his youth promised it not.",
+                  "The breath no sooner left his father's body,",
+                  "But that his wildness, mortified in him,",
+                  "Seem'd to die too; yea, at that very moment",
+                  "Consideration, like an angel, came",
+                  "And whipp'd the offending Adam out of him,",
+                  "Leaving his body as a paradise,",
+                  "To envelop and contain celestial spirits.",
+                  "Never was such a sudden scholar made;",
+                  "Never came reformation in a flood,",
+                  "With such a heady currance, scouring faults",
+                  "Nor never Hydra-headed wilfulness",
+                  "So soon did lose his seat and all at once",
+                  "As in this king."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "We are blessed in the change."
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "Hear him but reason in divinity,",
+                  "And all-admiring with an inward wish",
+                  "You would desire the king were made a prelate:",
+                  "Hear him debate of commonwealth affairs,",
+                  "You would say it hath been all in all his study:",
+                  "List his discourse of war, and you shall hear",
+                  "A fearful battle render'd you in music:",
+                  "Turn him to any cause of policy,",
+                  "The Gordian knot of it he will unloose,",
+                  "Familiar as his garter: that, when he speaks,",
+                  "The air, a charter'd libertine, is still,",
+                  "And the mute wonder lurketh in men's ears,",
+                  "To steal his sweet and honey'd sentences;",
+                  "So that the art and practic part of life",
+                  "Must be the mistress to this theoric:",
+                  "Which is a wonder how his grace should glean it,",
+                  "Since his addiction was to courses vain,",
+                  "His companies unletter'd, rude and shallow,",
+                  "His hours fill'd up with riots, banquets, sports,",
+                  "And never noted in him any study,",
+                  "Any retirement, any sequestration",
+                  "From open haunts and popularity."
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "The strawberry grows underneath the nettle",
+                  "And wholesome berries thrive and ripen best",
+                  "Neighbour'd by fruit of baser quality:",
+                  "And so the prince obscured his contemplation",
+                  "Under the veil of wildness; which, no doubt,",
+                  "Grew like the summer grass, fastest by night,",
+                  "Unseen, yet crescive in his faculty."
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "It must be so; for miracles are ceased;",
+                  "And therefore we must needs admit the means",
+                  "How things are perfected."
+                  ] }
+               ]
+            },
+            {
+               "name":"SCENE II",
+               "title":"The same. The Presence chamber",
+               "stageDirection":"Enter KING HENRY V, GLOUCESTER, BEDFORD, EXETER, WARWICK, WESTMORELAND, and Attendants.",
+               "speeches":[
+
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Where is my gracious Lord of Canterbury?"
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "Not here in presence."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Send for him, good uncle."
+                  ] },
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "Shall we call in the ambassador, my liege?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Not yet, my cousin: we would be resolved,",
+                  "Before we hear him, of some things of weight",
+                  "That task our thoughts, concerning us and France."
+                  ],
+                  "stagedir":"Enter the ARCHBISHOP OF CANTERBURY, and the BISHOP of ELY" },
+                  
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "God and his angels guard your sacred throne",
+                  "And make you long become it!"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Sure, we thank you.",
+                  "My learned lord, we pray you to proceed",
+                  "And justly and religiously unfold",
+                  "Why the law Salique that they have in France",
+                  "Or should, or should not, bar us in our claim:",
+                  "And God forbid, my dear and faithful lord,",
+                  "That you should fashion, wrest, or bow your reading,",
+                  "Or nicely charge your understanding soul",
+                  "With opening titles miscreate, whose right",
+                  "Suits not in native colours with the truth;",
+                  "For God doth know how many now in health",
+                  "Shall drop their blood in approbation",
+                  "Of what your reverence shall incite us to.",
+                  "Therefore take heed how you impawn our person,",
+                  "How you awake our sleeping sword of war:",
+                  "We charge you, in the name of God, take heed;",
+                  "For never two such kingdoms did contend",
+                  "Without much fall of blood; whose guiltless drops",
+                  "Are every one a woe, a sore complaint",
+                  "'Gainst him whose wrong gives edge unto the swords",
+                  "That make such waste in brief mortality.",
+                  "Under this conjuration, speak, my lord;",
+                  "For we will hear, note and believe in heart",
+                  "That what you speak is in your conscience wash'd",
+                  "As pure as sin with baptism."
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "Then hear me, gracious sovereign, and you peers,",
+                  "That owe yourselves, your lives and services",
+                  "To this imperial throne. There is no bar",
+                  "To make against your highness' claim to France",
+                  "But this, which they produce from Pharamond,",
+                  "'In terram Salicam mulieres ne succedant:'",
+                  "'No woman shall succeed in Salique land:'",
+                  "Which Salique land the French unjustly gloze",
+                  "To be the realm of France, and Pharamond",
+                  "The founder of this law and female bar.",
+                  "Yet their own authors faithfully affirm",
+                  "That the land Salique is in Germany,",
+                  "Between the floods of Sala and of Elbe;",
+                  "Where Charles the Great, having subdued the Saxons,",
+                  "There left behind and settled certain French;",
+                  "Who, holding in disdain the German women",
+                  "For some dishonest manners of their life,",
+                  "Establish'd then this law; to wit, no female",
+                  "Should be inheritrix in Salique land:",
+                  "Which Salique, as I said, 'twixt Elbe and Sala,",
+                  "Is at this day in Germany call'd Meisen.",
+                  "Then doth it well appear that Salique law",
+                  "Was not devised for the realm of France:",
+                  "Nor did the French possess the Salique land",
+                  "Until four hundred one and twenty years",
+                  "After defunction of King Pharamond,",
+                  "Idly supposed the founder of this law;",
+                  "Who died within the year of our redemption",
+                  "Four hundred twenty-six; and Charles the Great",
+                  "Subdued the Saxons, and did seat the French",
+                  "Beyond the river Sala, in the year",
+                  "Eight hundred five. Besides, their writers say,",
+                  "King Pepin, which deposed Childeric,",
+                  "Did, as heir general, being descended",
+                  "Of Blithild, which was daughter to King Clothair,",
+                  "Make claim and title to the crown of France.",
+                  "Hugh Capet also, who usurped the crown",
+                  "Of Charles the duke of Lorraine, sole heir male",
+                  "Of the true line and stock of Charles the Great,",
+                  "To find his title with some shows of truth,",
+                  "'Through, in pure truth, it was corrupt and naught,",
+                  "Convey'd himself as heir to the Lady Lingare,",
+                  "Daughter to Charlemain, who was the son",
+                  "To Lewis the emperor, and Lewis the son",
+                  "Of Charles the Great. Also King Lewis the Tenth,",
+                  "Who was sole heir to the usurper Capet,",
+                  "Could not keep quiet in his conscience,",
+                  "Wearing the crown of France, till satisfied",
+                  "That fair Queen Isabel, his grandmother,",
+                  "Was lineal of the Lady Ermengare,",
+                  "Daughter to Charles the foresaid duke of Lorraine:",
+                  "By the which marriage the line of Charles the Great",
+                  "Was re-united to the crown of France.",
+                  "So that, as clear as is the summer's sun.",
+                  "King Pepin's title and Hugh Capet's claim,",
+                  "King Lewis his satisfaction, all appear",
+                  "To hold in right and title of the female:",
+                  "So do the kings of France unto this day;",
+                  "Howbeit they would hold up this Salique law",
+                  "To bar your highness claiming from the female,",
+                  "And rather choose to hide them in a net",
+                  "Than amply to imbar their crooked titles",
+                  "Usurp'd from you and your progenitors."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "May I with right and conscience make this claim?"
+                  ] },
+                  
+                  {
+                  "speaker": "CANTERBURY", "lines": [
+                  "The sin upon my head, dread sovereign!",
+                  "For in the book of Numbers is it writ,",
+                  "When the man dies, let the inheritance",
+                  "Descend unto the daughter. Gracious lord,",
+                  "Stand for your own; unwind your bloody flag;",
+                  "Look back into your mighty ancestors:",
+                  "Go, my dread lord, to your great-grandsire's tomb,",
+                  "From whom you claim; invoke his warlike spirit,",
+                  "And your great-uncle's, Edward the Black Prince,",
+                  "Who on the French ground play'd a tragedy,",
+                  "Making defeat on the full power of France,",
+                  "Whiles his most mighty father on a hill",
+                  "Stood smiling to behold his lion's whelp",
+                  "Forage in blood of French nobility.",
+                  "O noble English. that could entertain",
+                  "With half their forces the full Pride of France",
+                  "And let another half stand laughing by,",
+                  "All out of work and cold for action!"
+                  ] },
+                  
+                  {
+                  "speaker": "ELY", "lines": [
+                  "Awake remembrance of these valiant dead",
+                  "And with your puissant arm renew their feats:",
+                  "You are their heir; you sit upon their throne;",
+                  "The blood and courage that renowned them",
+                  "Runs in your veins; and my thrice-puissant liege",
+                  "Is in the very May-morn of his youth,",
+                  "Ripe for exploits and mighty enterprises."
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "Your brother kings and monarchs of the earth",
+                  "Do all expect that you should rouse yourself,",
+                  "As did the former lions of your blood."
+                  ] }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"ACT II",
+         "scenes":[
+            {
+               "name":"SCENE I",
+               "title":"London. A street.",
+               "stageDirection":"Enter Corporal NYM and Lieutenant BARDOLPH.",
+               "speeches":[
+
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "Well met, Corporal Nym."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Good morrow, Lieutenant Bardolph."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "What, are Ancient Pistol and you friends yet?"
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "For my part, I care not: I say little; but when",
+                  "time shall serve, there shall be smiles; but that",
+                  "shall be as it may. I dare not fight; but I will",
+                  "wink and hold out mine iron: it is a simple one; but",
+                  "what though? it will toast cheese, and it will",
+                  "endure cold as another man's sword will: and",
+                  "there's an end."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "I will bestow a breakfast to make you friends; and",
+                  "we'll be all three sworn brothers to France: let it",
+                  "be so, good Corporal Nym."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Faith, I will live so long as I may, that's the",
+                  "certain of it; and when I cannot live any longer, I",
+                  "will do as I may: that is my rest, that is the",
+                  "rendezvous of it."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "It is certain, corporal, that he is married to Nell",
+                  "Quickly: and certainly she did you wrong; for you",
+                  "were troth-plight to her."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "I cannot tell: things must be as they may: men may",
+                  "sleep, and they may have their throats about them at",
+                  "that time; and some say knives have edges. It must",
+                  "be as it may: though patience be a tired mare, yet",
+                  "she will plod. There must be conclusions. Well, I",
+                  "cannot tell."
+                  ],
+                  "stagedir":"Enter PISTOL and Hostess" },
+
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "Here comes Ancient Pistol and his wife: good",
+                  "corporal, be patient here. How now, mine host Pistol!"
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Base tike, call'st thou me host? Now, by this hand,",
+                  "I swear, I scorn the term; Nor shall my Nell keep lodgers."
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "No, by my troth, not long; for we cannot lodge and",
+                  "board a dozen or fourteen gentlewomen that live",
+                  "honestly by the prick of their needles, but it will",
+                  "be thought we keep a bawdy house straight.",
+      
+                  "O well a day, Lady, if he be not drawn now! we",
+                  "shall see wilful adultery and murder committed."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "Good lieutenant! good corporal! offer nothing here."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Pish!"
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Pish for thee, Iceland dog! thou prick-ear'd cur of Iceland!"
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "Good Corporal Nym, show thy valour, and put up your sword."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Will you shog off? I would have you solus."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "'Solus,' egregious dog? O viper vile!",
+                  "The 'solus' in thy most mervailous face;",
+                  "The 'solus' in thy teeth, and in thy throat,",
+                  "And in thy hateful lungs, yea, in thy maw, perdy,",
+                  "And, which is worse, within thy nasty mouth!",
+                  "I do retort the 'solus' in thy bowels;",
+                  "For I can take, and Pistol's cock is up,",
+                  "And flashing fire will follow."
+                  ] }
+               ]
+            },
+            {
+               "name":"SCENE II",
+               "title":"Southampton. A council-chamber.",
+               "stageDirection":"Enter EXETER, BEDFORD, and WESTMORELAND",
+               "speeches":[
+
+                  {
+                  "speaker": "BEDFORD", "lines": [
+                  "'Fore God, his grace is bold, to trust these traitors."
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "They shall be apprehended by and by."
+                  ] },
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "How smooth and even they do bear themselves!",
+                  "As if allegiance in their bosoms sat,",
+                  "Crowned with faith and constant loyalty."
+                  ] },
+                  
+                  {
+                  "speaker": "BEDFORD", "lines": [
+                  "The king hath note of all that they intend,",
+                  "By interception which they dream not of."
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "Nay, but the man that was his bedfellow,",
+                  "Whom he hath dull'd and cloy'd with gracious favours,",
+                  "That he should, for a foreign purse, so sell",
+                  "His sovereign's life to death and treachery."
+                  ],
+                  "stagedir":"Trumpets sound. Enter KING HENRY V, SCROOP, CAMBRIDGE, GREY, and Attendants" },
+
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Now sits the wind fair, and we will aboard.",
+                  "My Lord of Cambridge, and my kind Lord of Masham,",
+                  "And you, my gentle knight, give me your thoughts:",
+                  "Think you not that the powers we bear with us",
+                  "Will cut their passage through the force of France,",
+                  "Doing the execution and the act",
+                  "For which we have in head assembled them?"
+                  ] },
+                  
+                  {
+                  "speaker": "SCROOP", "lines": [
+                  "No doubt, my liege, if each man do his best."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "I doubt not that; since we are well persuaded",
+                  "We carry not a heart with us from hence",
+                  "That grows not in a fair consent with ours,",
+                  "Nor leave not one behind that doth not wish",
+                  "Success and conquest to attend on us."
+                  ] },
+                  
+                  {
+                  "speaker": "CAMBRIDGE", "lines": [
+                  "Never was monarch better fear'd and loved",
+                  "Than is your majesty: there's not, I think, a subject",
+                  "That sits in heart-grief and uneasiness",
+                  "Under the sweet shade of your government."
+                  ] },
+                  
+                  {
+                  "speaker": "GREY", "lines": [
+                  "True: those that were your father's enemies",
+                  "Have steep'd their galls in honey and do serve you",
+                  "With hearts create of duty and of zeal."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "We therefore have great cause of thankfulness;",
+                  "And shall forget the office of our hand,",
+                  "Sooner than quittance of desert and merit",
+                  "According to the weight and worthiness."
+                  ] },
+                  
+                  {
+                  "speaker": "SCROOP", "lines": [
+                  "So service shall with steeled sinews toil,",
+                  "And labour shall refresh itself with hope,",
+                  "To do your grace incessant services."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "We judge no less. Uncle of Exeter,",
+                  "Enlarge the man committed yesterday,",
+                  "That rail'd against our person: we consider",
+                  "it was excess of wine that set him on;",
+                  "And on his more advice we pardon him."
+                  ] },
+                  
+                  {
+                  "speaker": "SCROOP", "lines": [
+                  "That's mercy, but too much security:",
+                  "Let him be punish'd, sovereign, lest example",
+                  "Breed, by his sufferance, more of such a kind."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "O, let us yet be merciful."
+                  ] },
+                  
+                  {
+                  "speaker": "CAMBRIDGE", "lines": [
+                  "So may your highness, and yet punish too."
+                  ] },
+                  
+                  {
+                  "speaker": "GREY", "lines": [
+                  "Sir,",
+                  "You show great mercy, if you give him life,",
+                  "After the taste of much correction."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Alas, your too much love and care of me",
+                  "Are heavy orisons 'gainst this poor wretch!",
+                  "If little faults, proceeding on distemper,",
+                  "Shall not be wink'd at, how shall we stretch our eye",
+                  "When capital crimes, chew'd, swallow'd and digested,",
+                  "Appear before us? We'll yet enlarge that man,",
+                  "Though Cambridge, Scroop and Grey, in their dear care",
+                  "And tender preservation of our person,",
+                  "Would have him punished. And now to our French causes:",
+                  "Who are the late commissioners?"
+                  ] },
+                  
+                  {
+                  "speaker": "CAMBRIDGE", "lines": [
+                  "I one, my lord:",
+                  "Your highness bade me ask for it to-day."
+                  ] },
+                  
+                  {
+                  "speaker": "SCROOP", "lines": [
+                  "So did you me, my liege."
+                  ] },
+                  
+                  {
+                  "speaker": "GREY", "lines": [
+                  "And I, my royal sovereign."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Then, Richard Earl of Cambridge, there is yours;",
+                  "There yours, Lord Scroop of Masham; and, sir knight,",
+                  "Grey of Northumberland, this same is yours:",
+                  "Read them; and know, I know your worthiness.",
+                  "My Lord of Westmoreland, and uncle Exeter,",
+                  "We will aboard to night. Why, how now, gentlemen!",
+                  "What see you in those papers that you lose",
+                  "So much complexion? Look ye, how they change!",
+                  "Their cheeks are paper. Why, what read you there",
+                  "That hath so cowarded and chased your blood",
+                  "Out of appearance?"
+                  ] },
+                  
+                  {
+                  "speaker": "CAMBRIDGE", "lines": [
+                  "I do confess my fault;",
+                  "And do submit me to your highness' mercy."
+                  ] },
+                  
+                 
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "The mercy that was quick in us but late,",
+                  "By your own counsel is suppress'd and kill'd:",
+                  "You must not dare, for shame, to talk of mercy;",
+                  "For your own reasons turn into your bosoms,",
+                  "As dogs upon their masters, worrying you.",
+                  "See you, my princes, and my noble peers,",
+                  "These English monsters! My Lord of Cambridge here,",
+                  "You know how apt our love was to accord",
+                  "To furnish him with all appertinents",
+                  "Belonging to his honour; and this man",
+                  "Hath, for a few light crowns, lightly conspired,",
+                  "And sworn unto the practises of France,",
+                  "To kill us here in Hampton: to the which",
+                  "This knight, no less for bounty bound to us",
+                  "Than Cambridge is, hath likewise sworn. But, O,",
+                  "What shall I say to thee, Lord Scroop? thou cruel,",
+                  "Ingrateful, savage and inhuman creature!",
+                  "Thou that didst bear the key of all my counsels,",
+                  "That knew'st the very bottom of my soul,",
+                  "That almost mightst have coin'd me into gold,",
+                  "Wouldst thou have practised on me for thy use,",
+                  "May it be possible, that foreign hire",
+                  "Could out of thee extract one spark of evil",
+                  "That might annoy my finger? 'tis so strange,",
+                  "That, though the truth of it stands off as gross",
+                  "As black and white, my eye will scarcely see it.",
+                  "Treason and murder ever kept together,",
+                  "As two yoke-devils sworn to either's purpose,",
+                  "Working so grossly in a natural cause,",
+                  "That admiration did not whoop at them:",
+                  "But thou, 'gainst all proportion, didst bring in",
+                  "Wonder to wait on treason and on murder:",
+                  "And whatsoever cunning fiend it was",
+                  "That wrought upon thee so preposterously",
+                  "Hath got the voice in hell for excellence:",
+                  "All other devils that suggest by treasons",
+                  "Do botch and bungle up damnation",
+                  "With patches, colours, and with forms being fetch'd",
+                  "From glistering semblances of piety;",
+                  "But he that temper'd thee bade thee stand up,",
+                  "Gave thee no instance why thou shouldst do treason,",
+                  "Unless to dub thee with the name of traitor.",
+                  "If that same demon that hath gull'd thee thus",
+                  "Should with his lion gait walk the whole world,",
+                  "He might return to vasty Tartar back,",
+                  "And tell the legions 'I can never win",
+                  "A soul so easy as that Englishman's.'",
+                  "O, how hast thou with 'jealousy infected",
+                  "The sweetness of affiance! Show men dutiful?",
+                  "Why, so didst thou: seem they grave and learned?",
+                  "Why, so didst thou: come they of noble family?",
+                  "Why, so didst thou: seem they religious?",
+                  "Why, so didst thou: or are they spare in diet,",
+                  "Free from gross passion or of mirth or anger,",
+                  "Constant in spirit, not swerving with the blood,",
+                  "Garnish'd and deck'd in modest complement,",
+                  "Not working with the eye without the ear,",
+                  "And but in purged judgment trusting neither?",
+                  "Such and so finely bolted didst thou seem:",
+                  "And thus thy fall hath left a kind of blot,",
+                  "To mark the full-fraught man and best indued",
+                  "With some suspicion. I will weep for thee;",
+                  "For this revolt of thine, methinks, is like",
+                  "Another fall of man. Their faults are open:",
+                  "Arrest them to the answer of the law;",
+                  "And God acquit them of their practises!"
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "I arrest thee of high treason, by the name of",
+                  "Richard Earl of Cambridge.",
+                  "I arrest thee of high treason, by the name of",
+                  "Henry Lord Scroop of Masham.",
+                  "I arrest thee of high treason, by the name of",
+                  "Thomas Grey, knight, of Northumberland."
+                  ] }
+               ]
+            },
+            {
+               "name":"SCENE III",
+               "title":"London. Before a tavern.",
+               "stageDirection":"Enter PISTOL, Hostess, NYM, BARDOLPH, and Boy",
+               "speeches":[
+
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "Prithee, honey-sweet husband, let me bring thee to Staines."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "No; for my manly heart doth yearn.",
+                  "Bardolph, be blithe: Nym, rouse thy vaunting veins:",
+                  "Boy, bristle thy courage up; for Falstaff he is dead,",
+                  "And we must yearn therefore."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "Would I were with him, wheresome'er he is, either in",
+                  "heaven or in hell!"
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "Nay, sure, he's not in hell: he's in Arthur's",
+                  "bosom, if ever man went to Arthur's bosom. A' made",
+                  "a finer end and went away an it had been any",
+                  "christom child; a' parted even just between twelve",
+                  "and one, even at the turning o' the tide: for after",
+                  "I saw him fumble with the sheets and play with",
+                  "flowers and smile upon his fingers' ends, I knew",
+                  "there was but one way; for his nose was as sharp as",
+                  "a pen, and a' babbled of green fields. 'How now,",
+                  "sir John!' quoth I 'what, man! be o' good",
+                  "cheer.' So a' cried out 'God, God, God!' three or",
+                  "four times. Now I, to comfort him, bid him a'",
+                  "should not think of God; I hoped there was no need",
+                  "to trouble himself with any such thoughts yet. So",
+                  "a' bade me lay more clothes on his feet: I put my",
+                  "hand into the bed and felt them, and they were as",
+                  "cold as any stone; then I felt to his knees, and",
+                  "they were as cold as any stone, and so upward and",
+                  "upward, and all was as cold as any stone."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "They say he cried out of sack."
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "Ay, that a' did."
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "And of women."
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "Nay, that a' did not."
+                  ] },
+                  
+                  {
+                  "speaker": "Boy", "lines": [
+                  "Yes, that a' did; and said they were devils",
+                  "incarnate."
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "A' could never abide carnation; 'twas a colour he",
+                  "never liked."
+                  ] },
+                  
+                  {
+                  "speaker": "Boy", "lines": [
+                  "A' said once, the devil would have him about women."
+                  ] },
+                  
+                  {
+                  "speaker": "Hostess", "lines": [
+                  "A' did in some sort, indeed, handle women; but then",
+                  "he was rheumatic, and talked of the whore of Babylon."
+                  ] },
+                  
+                  {
+                  "speaker": "Boy", "lines": [
+                  "Do you not remember, a' saw a flea stick upon",
+                  "Bardolph's nose, and a' said it was a black soul",
+                  "burning in hell-fire?"
+                  ] },
+                  
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "Well, the fuel is gone that maintained that fire:",
+                  "that's all the riches I got in his service."
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Shall we shog? the king will be gone from",
+                  "Southampton."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Come, let's away. My love, give me thy lips.",
+                  "Look to my chattels and my movables:",
+                  "Let senses rule; the word is 'Pitch and Pay:'",
+                  "Trust none;",
+                  "For oaths are straws, men's faiths are wafer-cakes,",
+                  "And hold-fast is the only dog, my duck:",
+                  "Therefore, Caveto be thy counsellor.",
+                  "Go, clear thy crystals. Yoke-fellows in arms,",
+                  "Let us to France; like horse-leeches, my boys,",
+                  "To suck, to suck, the very blood to suck!"
+                  ] }
+               ]
+            }            
+         ]
+      },
+      {
+         "name":"ACT III",
+         "scenes":[
+            {
+               "name":"SCENE I",
+               "title":"France. Before Harfleur.",
+               "stageDirection":"Enter KING HENRY, EXETER, BEDFORD, GLOUCESTER, and Soldiers, with scaling-ladders",
+               "speeches":[
+
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Once more unto the breach, dear friends, once more;",
+                  "Or close the wall up with our English dead.",
+                  "In peace there's nothing so becomes a man",
+                  "As modest stillness and humility:",
+                  "But when the blast of war blows in our ears,",
+                  "Then imitate the action of the tiger;",
+                  "Stiffen the sinews, summon up the blood,",
+                  "Disguise fair nature with hard-favour'd rage;",
+                  "Then lend the eye a terrible aspect;",
+                  "Let pry through the portage of the head",
+                  "Like the brass cannon; let the brow o'erwhelm it",
+                  "As fearfully as doth a galled rock",
+                  "O'erhang and jutty his confounded base,",
+                  "Swill'd with the wild and wasteful ocean.",
+                  "Now set the teeth and stretch the nostril wide,",
+                  "Hold hard the breath and bend up every spirit",
+                  "To his full height. On, on, you noblest English.",
+                  "Whose blood is fet from fathers of war-proof!",
+                  "Fathers that, like so many Alexanders,",
+                  "Have in these parts from morn till even fought",
+                  "And sheathed their swords for lack of argument:",
+                  "Dishonour not your mothers; now attest",
+                  "That those whom you call'd fathers did beget you.",
+                  "Be copy now to men of grosser blood,",
+                  "And teach them how to war. And you, good yeoman,",
+                  "Whose limbs were made in England, show us here",
+                  "The mettle of your pasture; let us swear",
+                  "That you are worth your breeding; which I doubt not;",
+                  "For there is none of you so mean and base,",
+                  "That hath not noble lustre in your eyes.",
+                  "I see you stand like greyhounds in the slips,",
+                  "Straining upon the start. The game's afoot:",
+                  "Follow your spirit, and upon this charge",
+                  "Cry 'God for Harry, England, and Saint George!'"
+                  ] }                
+
+               ]
+            },
+            {
+               "name":"SCENE II",
+               "title":"The same. ",
+               "stageDirection":"Enter NYM, BARDOLPH, PISTOL, and Boy.",
+               "speeches":[
+
+                  {
+                  "speaker": "BARDOLPH", "lines": [
+                  "On, on, on, on, on! to the breach, to the breach!"
+                  ] },
+                  
+                  {
+                  "speaker": "NYM", "lines": [
+                  "Pray thee, corporal, stay: the knocks are too hot;",
+                  "and, for mine own part, I have not a case of lives:",
+                  "the humour of it is too hot, that is the very",
+                  "plain-song of it."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "The plain-song is most just: for humours do abound:",
+                  "Knocks go and come; God's vassals drop and die;",
+                  "And sword and shield,",
+                  "In bloody field,",
+                  "Doth win immortal fame."
+                  ] },
+                  
+                  {
+                  "speaker": "Boy", "lines": [
+                  "Would I were in an alehouse in London! I would give",
+                  "all my fame for a pot of ale and safety."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "And I:",
+                  "If wishes would prevail with me,",
+                  "My purpose should not fail with me,",
+                  "But thither would I hie."
+                  ] },
+                  
+                  {
+                  "speaker": "Boy", "lines": [
+                  "As duly, but not as truly,",
+                  "As bird doth sing on bough."
+                  ] }
+               ]
+            }
+         ]
+      },
+
+      {
+         "name":"ACT IV",
+         "scenes":[
+            {
+               "name":"SCENE I",
+               "title":"The English camp at Agincourt.",
+               "stageDirection":"Enter KING HENRY, BEDFORD, and GLOUCESTER",
+               "speeches":[
+
+
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Gloucester, 'tis true that we are in great danger;",
+                  "The greater therefore should our courage be.",
+                  "Good morrow, brother Bedford. God Almighty!",
+                  "There is some soul of goodness in things evil,",
+                  "Would men observingly distil it out.",
+                  "For our bad neighbour makes us early stirrers,",
+                  "Which is both healthful and good husbandry:",
+                  "Besides, they are our outward consciences,",
+                  "And preachers to us all, admonishing",
+                  "That we should dress us fairly for our end.",
+                  "Thus may we gather honey from the weed,",
+                  "And make a moral of the devil himself.",
+                  "Good morrow, old Sir Thomas Erpingham:",
+                  "A good soft pillow for that good white head",
+                  "Were better than a churlish turf of France."
+                  ] },
+                  
+                  {
+                  "speaker": "ERPINGHAM", "lines": [
+                  "Not so, my liege: this lodging likes me better,",
+                  "Since I may say 'Now lie I like a king.'"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "'Tis good for men to love their present pains",
+                  "Upon example; so the spirit is eased:",
+                  "And when the mind is quicken'd, out of doubt,",
+                  "The organs, though defunct and dead before,",
+                  "Break up their drowsy grave and newly move,",
+                  "With casted slough and fresh legerity.",
+                  "Lend me thy cloak, Sir Thomas. Brothers both,",
+                  "Commend me to the princes in our camp;",
+                  "Do my good morrow to them, and anon",
+                  "Desire them an to my pavilion."
+                  ] },
+                  
+                  {
+                  "speaker": "GLOUCESTER", "lines": [
+                  "We shall, my liege."
+                  ] },
+                  
+                  {
+                  "speaker": "ERPINGHAM", "lines": [
+                  "Shall I attend your grace?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "No, my good knight;",
+                  "Go with my brothers to my lords of England:",
+                  "I and my bosom must debate awhile,",
+                  "And then I would no other company."
+                  ] },
+                  
+                  {
+                  "speaker": "ERPINGHAM", "lines": [
+                  "The Lord in heaven bless thee, noble Harry!"
+                  ],
+                  "stagedir":"Exeunt all but KING HENRY" },
+
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "God-a-mercy, old heart! thou speak'st cheerfully."
+                  ],
+                  "stagedir":"Enter PISTOL" },
+
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Qui va la?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "A friend."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Discuss unto me; art thou officer?",
+                  "Or art thou base, common and popular?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "I am a gentleman of a company."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Trail'st thou the puissant pike?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Even so. What are you?"
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "As good a gentleman as the emperor."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Then you are a better than the king."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "The king's a bawcock, and a heart of gold,",
+                  "A lad of life, an imp of fame;",
+                  "Of parents good, of fist most valiant.",
+                  "I kiss his dirty shoe, and from heart-string",
+                  "I love the lovely bully. What is thy name?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Harry le Roy."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Le Roy! a Cornish name: art thou of Cornish crew?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "No, I am a Welshman."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Know'st thou Fluellen?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Yes."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Tell him, I'll knock his leek about his pate",
+                  "Upon Saint Davy's day."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Do not you wear your dagger in your cap that day,",
+                  "lest he knock that about yours."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "Art thou his friend?"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "And his kinsman too."
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "The figo for thee, then!"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "I thank you: God be with you!"
+                  ] },
+                  
+                  {
+                  "speaker": "PISTOL", "lines": [
+                  "My name is Pistol call'd."
+                  ] }
+               ]
+            },
+            {
+               "name":"SCENE II",
+               "title":"The French camp",
+               "stageDirection":"Enter the DAUPHIN, ORLEANS, RAMBURES, and others",
+               "speeches":[
+
+                  {
+                  "speaker": "ORLEANS", "lines": [
+                  "The sun doth gild our armour; up, my lords!"
+                  ] },
+                  
+                  {
+                  "speaker": "DAUPHIN", "lines": [
+                  "Montez A cheval! My horse! varlet! laquais! ha!"
+                  ] },
+                  
+                  {
+                  "speaker": "ORLEANS", "lines": [
+                  "O brave spirit!"
+                  ] },
+                  
+                  {
+                  "speaker": "DAUPHIN", "lines": [
+                  "Via! les eaux et la terre."
+                  ] },
+                  
+                  {
+                  "speaker": "ORLEANS", "lines": [
+                  "Rien puis? L'air et la feu."
+                  ] },
+                  
+                  {
+                  "speaker": "DAUPHIN", "lines": [
+                  "Ciel, cousin Orleans.",
+                  "Now, my lord constable!"
+                  ] },
+                  
+                  {
+                  "speaker": "Constable", "lines": [
+                  "Hark, how our steeds for present service neigh!"
+                  ] },
+                  
+                  {
+                  "speaker": "DAUPHIN", "lines": [
+                  "Mount them, and make incision in their hides,",
+                  "That their hot blood may spin in English eyes,",
+                  "And dout them with superfluous courage, ha!"
+                  ] },
+                  
+                  {
+                  "speaker": "RAMBURES", "lines": [
+                  "What, will you have them weep our horses' blood?",
+                  "How shall we, then, behold their natural tears?"
+                  ],
+                  "stagedir":"Enter Messenger" },
+
+                  
+                  {
+                  "speaker": "Messenger", "lines": [
+                  "The English are embattled, you French peers."
+                  ] },
+                  
+                  {
+                  "speaker": "Constable", "lines": [
+                  "To horse, you gallant princes! straight to horse!",
+                  "Do but behold yon poor and starved band,",
+                  "And your fair show shall suck away their souls,",
+                  "Leaving them but the shales and husks of men.",
+                  "There is not work enough for all our hands;",
+                  "Scarce blood enough in all their sickly veins",
+                  "To give each naked curtle-axe a stain,",
+                  "That our French gallants shall to-day draw out,",
+                  "And sheathe for lack of sport: let us but blow on them,",
+                  "The vapour of our valour will o'erturn them.",
+                  "'Tis positive 'gainst all exceptions, lords,",
+                  "That our superfluous lackeys and our peasants,",
+                  "Who in unnecessary action swarm",
+                  "About our squares of battle, were enow",
+                  "To purge this field of such a hilding foe,",
+                  "Though we upon this mountain's basis by",
+                  "Took stand for idle speculation:",
+                  "But that our honours must not. What's to say?",
+                  "A very little little let us do.",
+                  "And all is done. Then let the trumpets sound",
+                  "The tucket sonance and the note to mount;",
+                  "For our approach shall so much dare the field",
+                  "That England shall couch down in fear and yield."
+                  ] },
+               ]
+            },
+            {
+               "name":"SCENE III",
+               "title":"The English camp.",
+               "stageDirection":"Enter GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with all his host: SALISBURY and WESTMORELAND.",
+               "speeches":[
+
+                  {
+                  "speaker": "GLOUCESTER", "lines": [
+                  "Where is the king?"
+                  ] },
+                  
+                  {
+                  "speaker": "BEDFORD", "lines": [
+                  "The king himself is rode to view their battle."
+                  ] },
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "Of fighting men they have full three score thousand."
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "There's five to one; besides, they all are fresh."
+                  ] },
+                  
+                  {
+                  "speaker": "SALISBURY", "lines": [
+                  "God's arm strike with us! 'tis a fearful odds.",
+                  "God be wi' you, princes all; I'll to my charge:",
+                  "If we no more meet till we meet in heaven,",
+                  "Then, joyfully, my noble Lord of Bedford,",
+                  "My dear Lord Gloucester, and my good Lord Exeter,",
+                  "And my kind kinsman, warriors all, adieu!"
+                  ] },
+                  
+                  {
+                  "speaker": "BEDFORD", "lines": [
+                  "Farewell, good Salisbury; and good luck go with thee!"
+                  ] },
+                  
+                  {
+                  "speaker": "EXETER", "lines": [
+                  "Farewell, kind lord; fight valiantly to-day:",
+                  "And yet I do thee wrong to mind thee of it,",
+                  "For thou art framed of the firm truth of valour."
+                  ] },
+                  
+                  
+                  {
+                  "speaker": "BEDFORD", "lines": [
+                  "He is full of valour as of kindness;",
+                  "Princely in both."
+                  ],
+                  "stagedir":"Enter the KING" },
+
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "O that we now had here",
+                  "But one ten thousand of those men in England",
+                  "That do no work to-day!"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "What's he that wishes so?",
+                  "My cousin Westmoreland? No, my fair cousin:",
+                  "If we are mark'd to die, we are enow",
+                  "To do our country loss; and if to live,",
+                  "The fewer men, the greater share of honour.",
+                  "God's will! I pray thee, wish not one man more.",
+                  "By Jove, I am not covetous for gold,",
+                  "Nor care I who doth feed upon my cost;",
+                  "It yearns me not if men my garments wear;",
+                  "Such outward things dwell not in my desires:",
+                  "But if it be a sin to covet honour,",
+                  "I am the most offending soul alive.",
+                  "No, faith, my coz, wish not a man from England:",
+                  "God's peace! I would not lose so great an honour",
+                  "As one man more, methinks, would share from me",
+                  "For the best hope I have. O, do not wish one more!",
+                  "Rather proclaim it, Westmoreland, through my host,",
+                  "That he which hath no stomach to this fight,",
+                  "Let him depart; his passport shall be made",
+                  "And crowns for convoy put into his purse:",
+                  "We would not die in that man's company",
+                  "That fears his fellowship to die with us.",
+                  "This day is called the feast of Crispian:",
+                  "He that outlives this day, and comes safe home,",
+                  "Will stand a tip-toe when the day is named,",
+                  "And rouse him at the name of Crispian.",
+                  "He that shall live this day, and see old age,",
+                  "Will yearly on the vigil feast his neighbours,",
+                  "And say 'To-morrow is Saint Crispian:'",
+                  "Then will he strip his sleeve and show his scars.",
+                  "And say 'These wounds I had on Crispin's day.'",
+                  "Old men forget: yet all shall be forgot,",
+                  "But he'll remember with advantages",
+                  "What feats he did that day: then shall our names.",
+                  "Familiar in his mouth as household words",
+                  "Harry the king, Bedford and Exeter,",
+                  "Warwick and Talbot, Salisbury and Gloucester,",
+                  "Be in their flowing cups freshly remember'd.",
+                  "This story shall the good man teach his son;",
+                  "And Crispin Crispian shall ne'er go by,",
+                  "From this day to the ending of the world,",
+                  "But we in it shall be remember'd;",
+                  "We few, we happy few, we band of brothers;",
+                  "For he to-day that sheds his blood with me",
+                  "Shall be my brother; be he ne'er so vile,",
+                  "This day shall gentle his condition:",
+                  "And gentlemen in England now a-bed",
+                  "Shall think themselves accursed they were not here,",
+                  "And hold their manhoods cheap whiles any speaks",
+                  "That fought with us upon Saint Crispin's day."
+                  ] },
+                  
+   
+                  
+                  {
+                  "speaker": "SALISBURY", "lines": [
+                  "My sovereign lord, bestow yourself with speed:",
+                  "The French are bravely in their battles set,",
+                  "And will with all expedience charge on us."
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "All things are ready, if our minds be so."
+                  ] },
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "Perish the man whose mind is backward now!"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Thou dost not wish more help from England, coz?"
+                  ] },
+                  
+                  {
+                  "speaker": "WESTMORELAND", "lines": [
+                  "God's will! my liege, would you and I alone,",
+                  "Without more help, could fight this royal battle!"
+                  ] },
+                  
+                  {
+                  "speaker": "KING HENRY V", "lines": [
+                  "Why, now thou hast unwish'd five thousand men;",
+                  "Which likes me better than to wish us one.",
+                  "You know your places: God be with you all!"
+                  ] }
+               ]
+            }
+         ]
+      }      
+   ]
+}
